@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "dotenv": "^16.0.1",
     "googleapis": "^105.0.0"
   }
 }
