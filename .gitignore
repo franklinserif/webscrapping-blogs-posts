@@ -240,4 +240,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# googleapi credentials
+credentials.json
+
 # End of https://www.toptal.com/developers/gitignore/api/node,windows,linux,macos,visualstudiocode
