@@ -6,6 +6,9 @@
   "author": "Franklin Rodriguez <franklinserif@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.1",
     "googleapis": "^105.0.0"
