@@ -1,0 +1,9 @@
+{
+  "name": "webscrapping-blog",
+  "version": "1.0.0",
+  "description": "Blog scrapping tools to inserto recolleted post for blogs and insert into new documents in google docs.",
+  "main": "src/index.js",
+  "author": "Franklin Rodriguez <franklinserif@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
