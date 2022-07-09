@@ -5,5 +5,17 @@
   "main": "src/index.js",
   "author": "Franklin Rodriguez <franklinserif@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "google-auth-library": "^8.1.0",
+    "googleapis": "^105.0.0",
+    "node-google-drive": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
